@@ -1,0 +1,6 @@
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\codeEval-oddNumbers-20160118\codeEval-oddNumbers-20160118\bin\Debug\codeEval-oddNumbers-20160118.exe.config
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\codeEval-oddNumbers-20160118\codeEval-oddNumbers-20160118\bin\Debug\codeEval-oddNumbers-20160118.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\codeEval-oddNumbers-20160118\codeEval-oddNumbers-20160118\bin\Debug\codeEval-oddNumbers-20160118.pdb
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\codeEval-oddNumbers-20160118\codeEval-oddNumbers-20160118\obj\Debug\codeEval-oddNumbers-20160118.csprojResolveAssemblyReference.cache
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\codeEval-oddNumbers-20160118\codeEval-oddNumbers-20160118\obj\Debug\codeEval-oddNumbers-20160118.exe
+C:\Users\MRE\Documents\Visual Studio 2015\Projects\codeEval-oddNumbers-20160118\codeEval-oddNumbers-20160118\obj\Debug\codeEval-oddNumbers-20160118.pdb
